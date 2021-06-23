@@ -16,7 +16,7 @@ Archivo ".xls" : Este archivo contiene el diccionario de los datos.
 
 **Descripcion:**
 
-El projecto fue realizado para el modulo de Open y Big data. Contiene dos componentes. El primero se basa en hacer un modelo de negocio en base de los datos abiertos. El segundo se basa en la recopilacion de datos mediante la herramienta web scraping. 
+El projecto fue realizado para el modulo de Open y Big data. Contiene dos componentes. El primero se basa en hacer un modelo de negocio en base de los datos abiertos. El segundo se basa en la recopilacion de datos mediante la herramienta web scraping. El web scraping fue realizado en la pagina de Amazon que perimete realizarlo si es sin fines de lucro y como fue un projecto con fines educativos no teniamos problemas.
 
 **Herramientas**
 * Google Colaboratory
@@ -31,3 +31,5 @@ Algunas librerías utilizadas:
 * Requests
 
 **Conclusión**
+
+A la hora de sacar informacion, sea para un projecto o una envestigacion el web scraping es una herramienta muy util.
